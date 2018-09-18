@@ -1,0 +1,25 @@
+- git:
+    local-name: feedbot_launch
+    uri: https://github.com/travers-rhodes/feedbot_launch.git
+- git:
+    local-name: feedbot_trajectory_logic
+    uri: https://github.com/travers-rhodes/feedbot_trajectory_logic.git
+- git:
+    local-name: initialization_mtcnn
+    uri: https://github.com/travers-rhodes/initialization_mtcnn.git
+- git:
+    local-name: niryo_one_ros
+    uri: https://github.com/travers-rhodes/niryo_one_ros.git
+- git:
+    local-name: pcdownsampling
+    uri: https://github.com/travers-rhodes/pcdownsampling.git
+- git:
+    local-name: record_mocap
+    uri: https://github.com/travers-rhodes/record_mocap.git
+- git:
+    local-name: spoon_perception
+    uri: https://github.com/travers-rhodes/spoon_perception.git
+- git:
+    local-name: vrpn_client_ros
+    uri: https://github.com/ros-drivers/vrpn_client_ros.git
+    version: kinetic-devel
