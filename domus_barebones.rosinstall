@@ -1,0 +1,12 @@
+- git:
+    local-name: feedbot_launch
+    uri: https://github.com/travers-rhodes/feedbot_launch.git
+- git:
+    local-name: feedbot_trajectory_logic
+    uri: https://github.com/travers-rhodes/feedbot_trajectory_logic.git
+- git:
+    local-name: niryo_one_ros
+    uri: https://github.com/travers-rhodes/niryo_one_ros.git
+- git:
+    local-name: spoon_perception
+    uri: https://github.com/travers-rhodes/spoon_perception.git
