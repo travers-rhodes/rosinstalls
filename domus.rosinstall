@@ -13,3 +13,6 @@
 - git:
     local-name: spoon_perception
     uri: https://github.com/travers-rhodes/spoon_perception.git
+- git:
+    local-name: feedbot_trajectory_logic
+    uri: https://github.com/travers-rhodes/feedbot_trajectory_logic.git
