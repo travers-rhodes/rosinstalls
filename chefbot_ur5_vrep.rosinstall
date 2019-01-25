@@ -1,0 +1,16 @@
+- git:
+    local-name: feedbot_trajectory_logic
+    uri: git@github.com:travers-rhodes/feedbot_trajectory_logic.git
+- git:
+    local-name: learn_trajectory
+    uri: git@github.com:travers-rhodes/learn_trajectory.git
+- git:
+    local-name: plating_demo
+    uri: git@github.com:travers-rhodes/plating_demo.git
+- git:
+    local-name: universal_robot
+    uri: git@github.com:travers-rhodes/universal_robot.git
+    version: ur_e    
+- git:
+    local-name: vrep_ur5_ros
+    uri: git@github.com:travers-rhodes/vrep_ur5_ros.git
