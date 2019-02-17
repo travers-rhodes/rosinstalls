@@ -1,0 +1,23 @@
+- git:
+    local-name: feedbot_trajectory_logic
+    uri: git@github.com:travers-rhodes/feedbot_trajectory_logic.git
+- git:
+    local-name: food_perception
+    uri: git@github.com:travers-rhodes/food_perception.git
+- git:
+    local-name: learn_trajectory
+    uri: git@github.com:travers-rhodes/learn_trajectory.git
+- git:
+    local-name: plating_demo
+    uri: git@github.com:travers-rhodes/plating_demo.git
+- git:
+    local-name: realsense
+    uri: https://github.com/intel-ros/realsense.git
+- git:
+    local-name: universal_robot
+    uri: https://github.com/dniewinski/universal_robot.git
+    version: ur_e
+- git:
+    local-name: ur_modern_driver
+    uri: https://github.com/dniewinski/ur_modern_driver.git
+    version: kinetic-devel
