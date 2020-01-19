@@ -5,7 +5,7 @@ Rosinstall files. This repo is public so that initializing new workspaces is a o
 cd ~
 mkdir my_catkin_ws
 cd my_catkin_ws
-wstool init src https://raw.githubusercontent.com/travers-rhodes/rosinstalls/master/ur5.rosinstall
+wstool init src https://raw.githubusercontent.com/travers-rhodes/rosinstalls/master/ur5_jacobian_based_motion.rosinstall
 rosdep update
 rosdep install --from-paths src --ignore-src -r -y
 catkin_make
