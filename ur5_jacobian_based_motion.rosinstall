@@ -1,0 +1,10 @@
+- git:
+    local-name: Universal_Robots_ROS_Driver
+    uri: git@github.com:UniversalRobots/Universal_Robots_ROS_Driver.git
+- git:
+    local-name: feedbot_trajectory_logic
+    uri: git@github.com:travers-rhodes/feedbot_trajectory_logic.git
+    version: ur5_cleaned
+- git:
+    local-name: universal_robot
+    uri: git@github.com:ros-industrial/universal_robot.git
