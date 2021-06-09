@@ -1,4 +1,7 @@
 - git:
+    local-name: ee_cart_imped
+    uri: git@github.com:travers-rhodes/ee_cart_imped.git
+- git:
     local-name: kinova_gen3_control
     uri: git@github.com:travers-rhodes/kinova_gen3_control.git
 - git:
