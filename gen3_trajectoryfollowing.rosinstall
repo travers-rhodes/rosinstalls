@@ -1,0 +1,6 @@
+- git:
+    local-name: feedbot_trajectory_logic
+    uri: git@github.com:travers-rhodes/feedbot_trajectory_logic.git
+- git:
+    local-name: ros_kortex
+    uri: git@github.com:Kinovarobotics/ros_kortex.git
