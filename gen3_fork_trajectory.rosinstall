@@ -5,9 +5,6 @@
     local-name: kinova_gen3_control
     uri: git@github.com:travers-rhodes/kinova_gen3_control.git
 - git:
-    local-name: kortex_description
-    uri: git@github.com:travers-rhodes/kortex_description.git
-- git:
     local-name: ros_kortex
     uri: git@github.com:Kinovarobotics/ros_kortex.git
 - git:
