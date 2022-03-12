@@ -1,0 +1,9 @@
+- git:
+    local-name: gravity_comp_joint_traj_controller
+    uri: git@github.com:travers-rhodes/gravity_comp_joint_traj_controller.git
+- git:
+    local-name: kinova_gen3_control
+    uri: git@github.com:travers-rhodes/kinova_gen3_control.git
+- git:
+    local-name: ros_kortex
+    uri: git@github.com:Kinovarobotics/ros_kortex.git
